@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi I'm Logan 👋
+I like to code and tinker around with whatever I find interesting
 
-<!--
-**LoganLilypad/LoganLilypad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- Currently working on small concepts, usually involving physics and/or math
+- Currently wanting to learn the basics of TensorFlow
+- The languages I know are Python, Javascript (+NodeJS), and PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to ask about all the projects I have not completed :rofl:
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoganLilypad&show_icons=true&theme=tokyonight)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganLilypad&show_icons=true&theme=tokyonight)
